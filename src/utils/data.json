@@ -1,0 +1,68 @@
+{
+    "author": "Miguel Santos",
+    "currentWork": "Rabobank",
+    "currentWorkDate": "2024 - Current",
+    "email": "miguel_santos96@hotmail.com",
+    "socials": {
+        "github": "https://github.com/miguel876",
+        "linkedIn": "https://www.linkedin.com/in/miguel-santos-ab076b155/"
+    },
+    "work": [
+        {
+            "title": "Frontend developer",
+            "company": "Rabobank",
+            "date": "Dec 2024 - Current",
+            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+        },
+        {
+            "title": "Frontend developer",
+            "company": "AngryPanda Productions",
+            "date": "Jul 2024 - Dec 2024",
+            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+        },
+        {
+            "title": "Frontend developer",
+            "company": "Bliss Applications",
+            "date": "Jul 2023 - Fev 2024",
+            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+        },
+        {
+            "title": "Frontend developer",
+            "company": "Asseco PST",
+            "date": "Sep 2018 - Jul 2023",
+            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+        },
+        {
+            "title": "Fullstack developer",
+            "company": "NO SHAPE",
+            "date": "Mar 2018 - Sep 2018",
+            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+        }
+    ],
+    "projects": [
+        {
+            "title": "TRIM.",
+            "website": "https://play.google.com/store/apps/details?id=com.trim.prototype&pcampaignid=web_share",
+            "github": "",
+            "description": "TRIM. is a schedule and management assist tool for barbershops",
+            "imgSrc": "/trim.png"
+        },
+        {
+            "title": "Migstore",
+            "website": "https://next-js-ecom-neon.vercel.app/",
+            "github": "https://github.com/miguel876/NextJS-Ecom",
+            "description": "Migstore is a small Ecommerce website created with NextJS, Tailwind, ShadCN, Zustand and Neon DB",
+            "imgSrc": "/nextjsecom.png"
+        },
+        {
+            "title": "Pic Vault",
+            "website": "https://pic-vault.netlify.app/",
+            "github": "https://github.com/miguel876/E-Commerce-Website",
+            "description": "Pic vault is a surf picture e-commerce website made with React and Redux.",
+            "imgSrc": "/picvault.jpg"
+        }
+    ],
+    "technologies": [
+        "NextJS", "React", "Javascript", "Typescript", "Redux", "Zustand", "Tailwind", "SASS", "CSS", "Styled components", "MUI", "ShadCN"
+    ]
+}
