@@ -14,7 +14,7 @@ const Conclusion = () => {
       viewport={{ once: true }}
       className="mt-48"
     >
-      <motion.div className="text-5xl tracking-tighter font-bold text-center mb-10 nor">
+      <motion.div className="text-3xl lg:text-5xl tracking-tighter font-bold text-center mb-10 nor">
         Got a cool ideia or project?
         <br />
         Just send me an email!

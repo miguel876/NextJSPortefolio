@@ -12,31 +12,31 @@
             "title": "Frontend developer",
             "company": "Rabobank",
             "date": "Dec 2024 - Current",
-            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+            "description": "Development and maintaining of a website using Next JS, Zustand and Tailwind CSS. For testing we use Jest with RTL."
         },
         {
             "title": "Frontend developer",
             "company": "AngryPanda Productions",
             "date": "Jul 2024 - Dec 2024",
-            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+            "description": "Development of a casino website new features and bug fixing using Next JS with Tailwind for the styling. End to end tests created with Cypress"
         },
         {
             "title": "Frontend developer",
             "company": "Bliss Applications",
             "date": "Jul 2023 - Fev 2024",
-            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+            "description": "Development of an Ecommerce website new features and bug fixing with React, Typescript and Styled Components. The development was created by following a Zeplin design with pixel perfect. The unit tests where created with Jest and RTL."
         },
         {
             "title": "Frontend developer",
             "company": "Asseco PST",
             "date": "Sep 2018 - Jul 2023",
-            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+            "description": "Development of Banks Institutional Websites using dotCMS with Javascript, HTML and CSS. The development of new features was based on a Zeplin design. Development of a banking platform using React and REST API calls to fetch the backend data"
         },
         {
             "title": "Fullstack developer",
             "company": "NO SHAPE",
             "date": "Mar 2018 - Sep 2018",
-            "description": "Development of a web platform using Next JS, Zustand, Tailwind CSS"
+            "description": "Development of multiple small projects using .NET, Javascript, PHP (Laravel), SQL, HTML and CSS"
         }
     ],
     "projects": [
@@ -63,6 +63,6 @@
         }
     ],
     "technologies": [
-        "NextJS", "React", "Javascript", "Typescript", "Redux", "Zustand", "Tailwind", "SASS", "CSS", "Styled components", "MUI", "ShadCN"
+        "NextJS", "React", "Javascript", "Typescript", "Redux", "Zustand", "Tailwind", "SASS", "CSS", "Styled components", "HTML", "MUI", "ShadCN", "Jest", "RTL", "Cypress", "Git", "SCRUM" 
     ]
 }
