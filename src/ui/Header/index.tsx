@@ -7,6 +7,7 @@ import GithubIcon from "../../../public/images/github.svg";
 import LinkedinIcon from "../../../public/images/linkedin.svg";
 import { Menu } from "lucide-react";
 import MobileMenu from "./MobileMenu";
+import ToggleTheme from "./ToggleTheme";
 
 const menus = ["work", "projects"];
 
@@ -41,6 +42,7 @@ const Header = () => {
           <Link href={data.socials.linkedIn}>
             <LinkedinIcon className="text-foreground size-5" />
           </Link>
+          <ToggleTheme />
         </div>
       </div>
       <div className="block lg:hidden">

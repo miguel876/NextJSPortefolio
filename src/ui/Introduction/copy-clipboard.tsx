@@ -2,12 +2,13 @@
 
 import { Check, Clipboard } from "lucide-react";
 import { useState } from "react";
+import data from "@/utils/data.json";
 
 const CopyClipboard = () => {
   const [clipboard, setClipboard] = useState(false);
 
   const copyToClipboardHandler = () => {
-    navigator.clipboard.writeText("miguel_santos96@hotmail.com");
+    navigator.clipboard.writeText(data.email);
     setClipboard(true);
 
     setTimeout(() => {

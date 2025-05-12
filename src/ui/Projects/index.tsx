@@ -43,7 +43,7 @@ const Projects = () => {
               className="bg-white rounded-xl w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-black opacity-20 group-hover:opacity-40 transition-opacity duration-300 rounded-xl"></div>
-            <div className="absolute top-7/12 md:top-5/12 lg:top-7/12 px-10 normal-case text-center">
+            <div className="absolute top-6/12 md:top-5/12 lg:top-7/12 px-10 normal-case text-center text-[#f0f0f0]">
               <div className="font-bold text-3xl mb-4">{project.title}</div>
               <div className="text-lg">{project.description}</div>
             </div>

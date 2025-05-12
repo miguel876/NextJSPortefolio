@@ -48,7 +48,7 @@ const Introduction = () => {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.5 }}
-        className="w-full flex flex-col md:flex-row gap-2 md:gap-5 mt-32 justify-center items-center text-sm absolute bottom-20 left-1/2 transform -translate-x-1/2"
+        className="w-full flex flex-col md:flex-row gap-2 md:gap-5 justify-center items-center text-sm absolute bottom-24 left-1/2 transform -translate-x-1/2"
       >
         <span className="font-bold">{"Let's work together"}</span>
         <CopyClipboard />
